@@ -1,1 +1,0 @@
-# Paquete base del proyecto.
